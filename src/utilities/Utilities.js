@@ -12,3 +12,4 @@ export const SignInWithEmailAndPassword=({email,password})=>{
 export const signOutUser=()=>{
     return auth().signOut();
 }
+
