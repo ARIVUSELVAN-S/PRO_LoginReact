@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "166010258339",
+    "project_id": "voiceaiassistant-5e0c5",
+    "storage_bucket": "voiceaiassistant-5e0c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166010258339:android:a82795bfb83420261d9016",
+        "android_client_info": {
+          "package_name": "com.mrj.loginreact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166010258339-co1mla4fsf0adj27mqfsdvt91c3rdf2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrj.loginreact",
+            "certificate_hash": "79e9b5a8f81990f82c1f22be1b29ba6c46d83f01"
+          }
+        },
+        {
+          "client_id": "166010258339-2rl1qeb8abnev2e4793ooktdffm9df6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTVxm6Bmo0xSM5e5Pje1ujqIwtI81n2Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166010258339-2rl1qeb8abnev2e4793ooktdffm9df6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
